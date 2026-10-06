@@ -35,8 +35,8 @@ location:
   country: US
   city: Los Angeles
 founded:
-  precision: month
-  value: "2026-08"
+  precision: year
+  value: "2025"
 platforms:
   - web
 links:
@@ -49,6 +49,9 @@ links:
 logo:
   path: logo.png
   alt: The TryNearby logo, a location pin mark
+gallery:
+  - path: product.png
+    alt: The TryNearby homepage, "Word of mouth for local businesses", framed by diners' posts and food photos
 sources:
   - url: https://trynearby.com/
     title: Official website
