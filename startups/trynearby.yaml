@@ -50,7 +50,7 @@ logo:
   path: logo.png
   alt: The TryNearby logo, a location pin mark
 gallery:
-  - path: product.png
+  - path: product.jpg
     alt: The TryNearby homepage, "Word of mouth for local businesses", framed by diners' posts and food photos
 sources:
   - url: https://trynearby.com/
